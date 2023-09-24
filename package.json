@@ -29,7 +29,8 @@
     "readline": "*",
     "request": "*",
     "shelljs": "0.8.4",
-    "sleep": "*"
+    "sleep": "*",
+    "ts-node": "^10.9.1"
   },
   "homepage": "https://github.com/FajarTheGGman/PhoneSpoofing#readme"
 }

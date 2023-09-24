@@ -1,0 +1,7 @@
+ngrok
+ngrok-v3-stable-linux-arm64.tgz
+node_modules/
+package-lock.json
+snapshots/
+result.txt
+
