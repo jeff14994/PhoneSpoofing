@@ -8,7 +8,7 @@ Simple program to Spoofing phone by send malicious link
 
 # How to run?
 <pre>
-1. install ngrok based on you OS arch and put it in the same repo
+1. install [ngrok](https://ngrok.com/download) based on you OS arch and put it in the same repo
 2. npm install
 3. npm run spoof.mjs
 </pre>
