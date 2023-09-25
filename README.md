@@ -10,14 +10,14 @@ Simple program to Spoofing phone by send malicious link
 <pre>
 Update Script for Node.js v18.13.0
 </pre>
-# How to run?
+## How to run?
 <pre>
 1. install [ngrok](https://ngrok.com/download) based on you OS arch and put it in the same repo
 2. npm install
 3. npm run spoof.mjs
 </pre>
 
-# Tutorial install
+## Tutorial install
 
 Termux
 <pre>
