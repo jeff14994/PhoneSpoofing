@@ -6,6 +6,10 @@ Simple program to Spoofing phone by send malicious link
 
 ![alt-text](https://github.com/FajarTheGGman/PhoneSpoofing/blob/master/%2C/screenshot.png)
 
+## Update
+<pre>
+Update Script for Node.js v18.13.0
+</pre>
 # How to run?
 <pre>
 1. install [ngrok](https://ngrok.com/download) based on you OS arch and put it in the same repo
